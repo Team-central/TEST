@@ -1,8 +1,14 @@
 <html>
-<body>
 <head>
 meta charset="utf-8"
 </head>
-	<p>"hello"</p>
+<body>
+<style>
+body {
+	background-color: red;
+	}
+</style>
+	<h1>Team Central</h1>
+	<p>Hello Team</p>
 </body>
 </html>
